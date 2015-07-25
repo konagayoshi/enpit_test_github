@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Konagayoshi Susumu"]
   spec.email         = ["konagayoshi@hotmail.com"]
 
-  spec.summary       = %q{This is test.}
-  spec.description   = %q{Write a longer description or delete this line.}
+  spec.summary       = %q{これはお勉強用のgemspecファイルです}
+  spec.description   = %q{gitはややこしくて難しいですが便利ですね.}
   spec.homepage      = "http://konagayoshi.com"
   spec.license       = "MIT"
 
